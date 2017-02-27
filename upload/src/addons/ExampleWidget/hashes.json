@@ -1,0 +1,7 @@
+{
+    "src/addons/ExampleWidget/addon.json": "6365db906d2ba6344a83f2f71d9fd73b836f4b804a2e4996cc99d02c318f54b9",
+    "src/addons/ExampleWidget/Widget/ViewPost.php": "c7dbad70b9fbc197f0a218d9f9f8f24248c67c054ab9076b95f421a89694915d",
+    "src/addons/ExampleWidget/_data/phrases.xml": "3f7350ada019eff0149afa41ced07e7fa5b5e825df5fe0fa4709e3d365a5e729",
+    "src/addons/ExampleWidget/_data/templates.xml": "d5f768a42a19c96533c54672ee193066c72b9d90820f3723d3f3f7167be09c2f",
+    "src/addons/ExampleWidget/_data/widget_definitions.xml": "ffe624a834a0e65e96d78120167221b4382bc9fcf095b76490d48adb2bccbb08"
+}

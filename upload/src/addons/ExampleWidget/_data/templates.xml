@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="admin" title="widget_def_options_singlePostView" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[<hr class="formRowSep" />
+
+<xf:textboxrow label="Post ID" name="options[post_id]" value="{$options.post_id}" min="0" type="number" />]]></template>
+  <template type="public" title="widget_post_view" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[<div class="block">
+	<div class="block-container">
+		<h3 class="block-minorHeader">{$title}</h3>
+		<div class="block-body">
+			<div class="block-row">
+				{{ bb_code($message, 'post', $post.User) }}
+			</div>
+		</div>
+	</div>
+</div>]]></template>
+</templates>
